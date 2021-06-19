@@ -1,0 +1,44 @@
+D:\Chuyên ngành\Do an 04\WebsiteTinTuc\WebsiteTinTuc\bin\WebsiteTinTuc.dll.config
+D:\Chuyên ngành\Do an 04\WebsiteTinTuc\WebsiteTinTuc\bin\WebsiteTinTuc.dll
+D:\Chuyên ngành\Do an 04\WebsiteTinTuc\WebsiteTinTuc\bin\WebsiteTinTuc.pdb
+D:\Chuyên ngành\Do an 04\WebsiteTinTuc\WebsiteTinTuc\obj\Debug\WebsiteTinTuc.csprojResolveAssemblyReference.cache
+D:\Chuyên ngành\Do an 04\WebsiteTinTuc\WebsiteTinTuc\obj\Debug\WebsiteTinTuc.dll
+D:\Chuyên ngành\Do an 04\WebsiteTinTuc\WebsiteTinTuc\obj\Debug\WebsiteTinTuc.pdb
+D:\Chuyên ngành\Do an 04\WebsiteTinTuc\WebsiteTinTuc\bin\CKFinder.dll
+D:\Chuyên ngành\Do an 04\WebsiteTinTuc\WebsiteTinTuc\bin\CKFinder.pdb
+D:\Đại học 2013-2017\Do an 04\WebsiteTinTuc\WebsiteTinTuc\bin\WebsiteTinTuc.dll.config
+D:\Đại học 2013-2017\Do an 04\WebsiteTinTuc\WebsiteTinTuc\bin\WebsiteTinTuc.dll
+D:\Đại học 2013-2017\Do an 04\WebsiteTinTuc\WebsiteTinTuc\bin\WebsiteTinTuc.pdb
+D:\Đại học 2013-2017\Do an 04\WebsiteTinTuc\WebsiteTinTuc\bin\CKFinder.dll
+D:\Đại học 2013-2017\Do an 04\WebsiteTinTuc\WebsiteTinTuc\bin\CKFinder.pdb
+D:\Đại học 2013-2017\Do an 04\WebsiteTinTuc\WebsiteTinTuc\obj\Debug\WebsiteTinTuc.dll
+D:\Đại học 2013-2017\Do an 04\WebsiteTinTuc\WebsiteTinTuc\obj\Debug\WebsiteTinTuc.pdb
+D:\Đại học 2013-2017\Do an 04\WebsiteTinTuc\WebsiteTinTuc\obj\Debug\WebsiteTinTuc.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Web tin tức\WebsiteTinTuc\WebsiteTinTuc\bin\WebsiteTinTuc.dll.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Web tin tức\WebsiteTinTuc\WebsiteTinTuc\bin\WebsiteTinTuc.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Web tin tức\WebsiteTinTuc\WebsiteTinTuc\bin\WebsiteTinTuc.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Web tin tức\WebsiteTinTuc\WebsiteTinTuc\bin\CKFinder.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Web tin tức\WebsiteTinTuc\WebsiteTinTuc\bin\CKFinder.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Web tin tức\WebsiteTinTuc\WebsiteTinTuc\obj\Debug\WebsiteTinTuc.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Web tin tức\WebsiteTinTuc\WebsiteTinTuc\obj\Debug\WebsiteTinTuc.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Web tin tức\WebsiteTinTuc\WebsiteTinTuc\obj\Debug\WebsiteTinTuc.csprojResolveAssemblyReference.cache
+E:\Web tin tức\WebsiteTinTuc\WebsiteTinTuc\bin\WebsiteTinTuc.dll.config
+E:\Web tin tức\WebsiteTinTuc\WebsiteTinTuc\bin\WebsiteTinTuc.dll
+E:\Web tin tức\WebsiteTinTuc\WebsiteTinTuc\bin\WebsiteTinTuc.pdb
+E:\Web tin tức\WebsiteTinTuc\WebsiteTinTuc\bin\CKFinder.dll
+E:\Web tin tức\WebsiteTinTuc\WebsiteTinTuc\bin\CKFinder.pdb
+E:\Web tin tức\WebsiteTinTuc\WebsiteTinTuc\obj\Debug\WebsiteTinTuc.csprojAssemblyReference.cache
+E:\Web tin tức\WebsiteTinTuc\WebsiteTinTuc\obj\Debug\WebsiteTinTuc.csproj.CoreCompileInputs.cache
+E:\Web tin tức\WebsiteTinTuc\WebsiteTinTuc\obj\Debug\WebsiteTinTuc.csproj.CopyComplete
+E:\Web tin tức\WebsiteTinTuc\WebsiteTinTuc\obj\Debug\WebsiteTinTuc.dll
+E:\Web tin tức\WebsiteTinTuc\WebsiteTinTuc\obj\Debug\WebsiteTinTuc.pdb
+C:\Users\HELLO\Desktop\Web-tin-tức\Web tin tức\WebsiteTinTuc\WebsiteTinTuc\bin\WebsiteTinTuc.dll.config
+C:\Users\HELLO\Desktop\Web-tin-tức\Web tin tức\WebsiteTinTuc\WebsiteTinTuc\bin\WebsiteTinTuc.dll
+C:\Users\HELLO\Desktop\Web-tin-tức\Web tin tức\WebsiteTinTuc\WebsiteTinTuc\bin\WebsiteTinTuc.pdb
+C:\Users\HELLO\Desktop\Web-tin-tức\Web tin tức\WebsiteTinTuc\WebsiteTinTuc\bin\CKFinder.dll
+C:\Users\HELLO\Desktop\Web-tin-tức\Web tin tức\WebsiteTinTuc\WebsiteTinTuc\bin\CKFinder.pdb
+C:\Users\HELLO\Desktop\Web-tin-tức\Web tin tức\WebsiteTinTuc\WebsiteTinTuc\obj\Debug\WebsiteTinTuc.csprojAssemblyReference.cache
+C:\Users\HELLO\Desktop\Web-tin-tức\Web tin tức\WebsiteTinTuc\WebsiteTinTuc\obj\Debug\WebsiteTinTuc.csproj.CoreCompileInputs.cache
+C:\Users\HELLO\Desktop\Web-tin-tức\Web tin tức\WebsiteTinTuc\WebsiteTinTuc\obj\Debug\WebsiteTinTuc.csproj.CopyComplete
+C:\Users\HELLO\Desktop\Web-tin-tức\Web tin tức\WebsiteTinTuc\WebsiteTinTuc\obj\Debug\WebsiteTinTuc.dll
+C:\Users\HELLO\Desktop\Web-tin-tức\Web tin tức\WebsiteTinTuc\WebsiteTinTuc\obj\Debug\WebsiteTinTuc.pdb
